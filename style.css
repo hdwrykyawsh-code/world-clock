@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+}
+#containar{
+        display: grid;
+    place-items: center;
+}
+#citycelect{
+    width: 300px;
+    height: 30px;
+}
+#demo{
+    list-style-type: none;
+    font-size: 2em;
+    margin: 100px 200px;
+}
+ul li {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 30px;
+
+  }
+
+
+.date{
+font-size: 0.4em;
+}
+
+
+  
+  
